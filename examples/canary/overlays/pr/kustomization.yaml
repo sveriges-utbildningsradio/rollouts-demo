@@ -3,7 +3,7 @@ kind: Kustomization
 bases:
 - ../../base
 resources:
-- canary-ingress-externaltest.yaml
+- canary-ingress-externtest.yaml
 - canary-ingress.yaml
 - canary-preview-ingress.yaml
 
