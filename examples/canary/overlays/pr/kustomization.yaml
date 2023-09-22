@@ -33,4 +33,4 @@ replacements:
 
 images:
 - name: argoproj/rollouts-demo
-  newTag: slow-purple
+  newTag: slow-red
