@@ -8,4 +8,4 @@ resources:
 
 images:
 - name: argoproj/rollouts-demo
-  newTag: blue
+  newTag: bad-yellow
